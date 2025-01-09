@@ -1,0 +1,25 @@
+path: /home/moo/PycharmProjects/update_detection_yolo/train_dirrrrr
+
+train: train
+val: valid
+test: test
+
+nc: 16
+
+names:
+  0: AD
+  1: AirSweeper
+  2: BombTower
+  3: Canon
+  4: ClanCastle
+  5: Eagle
+  6: Inferno
+  7: KingPad
+  8: Mortar
+  9: QueenPad
+  10: RcPad
+  11: Scattershot
+  12: TH13
+  13: WardenPad
+  14: WizzTower
+  15: Xbow
