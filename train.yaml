@@ -1,4 +1,4 @@
-path: /home/moo/PycharmProjects/update_detection_yolo/train_dirrrrr
+path: ./train_dir
 
 train: train
 val: valid
